@@ -1,0 +1,14 @@
+.UserOutput {
+  margin: 2em;
+  padding: 5em;
+  background: lightgrey;
+}
+
+.UserName {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.ClickedName {
+  color: blue;
+}

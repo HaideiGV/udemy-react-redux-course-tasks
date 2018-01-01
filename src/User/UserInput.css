@@ -1,0 +1,13 @@
+.UserInput {
+  background: lightgrey;
+  margin: 2em;
+  padding: 5em;
+}
+
+.TextInput {
+  border-radius: 10px;
+  background: grey;
+  height: 20px;
+  width: 400px;
+  font-size: 14px;
+}
